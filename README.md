@@ -12,10 +12,6 @@ Model
 - Task: Thyroid tissue classification
 - Accuracy: 100% training accuracy
 
-How to Run
-1. Open `histology_model.ipynb` in Google Colab
-2. Upload your dataset
-3. Run all cells
 
 Results
 | Metric | Score |
